@@ -44,7 +44,7 @@ createOrder(n, customers, products)
 │   └── Generate 2025 Data.ipynb
 │
 │
-├── .env 			- (Ignored with .gitignore)
+├── .env 			              - (Ignored with .gitignore)
 ├── README.md
 ├── LICENSE
 ├── requirements.txt            - Project dependencies
