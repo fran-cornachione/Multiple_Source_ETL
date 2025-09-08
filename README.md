@@ -1,6 +1,6 @@
 # **Multiple Source ETL**
 
-This is a Data Engineering project that extracts data from various sources: **MySQL, Amazon S3, and Excel** files, using Python, and Polars.
+This is a Data Engineering project that extracts data from various sources: **MySQL, Amazon S3, CSV and PARQUET** files, using Python, and Polars.
 
 [Polars](https://pola.rs/) is a powerful open-source library for **data manipulation** in Python. Known for being one of the fastest data processing solutions on a single machine. Compared to **pandas**, it can achieve more than **30x performance gains**. Since Polars can effectively handle 10 - 100 GBs of data with one GPU, I decided it was a great opportunity to implement it in my project, with *no need of using Spark*.
 
@@ -44,7 +44,7 @@ createOrder(n, customers, products)
 │   └── Generate 2025 Data.ipynb
 │
 │
-├── .env 			- (Ignored with .gitignore)
+├── .env 			              - (Ignored with .gitignore)
 ├── README.md
 ├── LICENSE
 ├── requirements.txt            - Project dependencies
