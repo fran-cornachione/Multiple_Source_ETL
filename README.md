@@ -4,6 +4,8 @@ This is a Data Engineering project that extracts data from various sources: **My
 
 [Polars](https://pola.rs/) is a powerful open-source library for **data manipulation** in Python. Known for being one of the fastest data processing solutions on a single machine. Compared to **pandas**, it can achieve more than **30x performance gains**. Since Polars can effectively handle 10 - 100 GBs of data with one GPU, I decided it was a great opportunity to implement it in my project, with *no need of using Spark*.
 
+![img](image\diagram.png)
+
 ---
 
 ## Data Generation
