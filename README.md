@@ -62,11 +62,11 @@ createOrder(n, customers, products)
 
 1. **Create a virtual environment**
    ```bash
-   python -m venv 
+   python -m venv venv
    ```
 2. **Activate it**
    ```bash
-   .\<virtual-environment-name>\Scripts\Activate.ps1
+   .\venv\Scripts\Activate.ps1
    ```
 3. **Clone repo**
    ```
