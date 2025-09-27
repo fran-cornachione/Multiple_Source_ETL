@@ -83,7 +83,6 @@ createOrder(n, customers, products)
 - **polars:** Data manipulation tool
 - **sqlalchemy:** I used the `create_engine` function to connect with MySQL and Postgres.
 - **boto3:** AWS S3 SDK (I used it to extract data from S3)
-- **deltalake:** (necessary to read and write Delta files with Polars)
 - **dotenv:** (necessary to hide credentials).
 - **abdc-driver-manager**
 - **abdc-driver-postgresql:** Used it to load data into PostgreSQL
