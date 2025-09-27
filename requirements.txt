@@ -1,7 +1,6 @@
 polars==1.32.0
 pandas==2.3.1
 sqlalchemy==2.0.42
-deltalake==1.1.4
 boto3==1.40.1
 dotenv==0.9.9
 psycopg2-binary==2.9.10
