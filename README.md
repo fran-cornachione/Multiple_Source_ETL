@@ -58,7 +58,6 @@ createOrder(n, customers, products)
 
 ### Virtual Environment
 
----
 
 1. **Create a virtual environment**
    ```bash
@@ -101,7 +100,7 @@ createOrder(n, customers, products)
 
 ---
 
-Create a `.env` file and add the following information:
+Create an `.env` file and add the following information:
 
 ```bash
 AWS_ACCESS_KEY_ID=
